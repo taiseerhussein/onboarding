@@ -1,4 +1,4 @@
-namespace: test-app-1
+namespace: test-app
 components:
 - ../test-app
 resources:
