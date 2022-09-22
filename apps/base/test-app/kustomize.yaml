@@ -1,0 +1,4 @@
+namespace: php-hello
+resources:
+- test-app.yaml
+- test-app-2.yaml
