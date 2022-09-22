@@ -5,3 +5,5 @@ metadata:
 data:
   example.property.1: hello
   example.property.2: world
+  example.property.3: hello-prod
+  example.property.4: world-prod
