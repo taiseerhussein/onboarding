@@ -1,6 +1,6 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
-namespace: app2
+namespace: app3
 resources:
 - space.yaml
 - config.yaml
